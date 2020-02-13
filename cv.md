@@ -19,6 +19,6 @@ My goal today is to gain knowledge about web development,understand the internal
 **Education:**
 
 + Belarusion agricultural and technical University
-+ learn.javascript.ru; 
++ https://learn.javascript.ru; 
 + HTMLacademy;
-+ Youtube.com;
++ https://Youtube.com;
