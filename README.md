@@ -1,1 +1,1 @@
-https://albor74.github.io/rsschool-cv/cv
+https://albor74.github.io/rsschool-cv/
